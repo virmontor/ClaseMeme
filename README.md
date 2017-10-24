@@ -8,4 +8,5 @@
   3.2 si son iguales sigue comparando
 
 4 Regresamos un true
-5 fin 
+5 fin
+![imagen](diagrama.jpg)
